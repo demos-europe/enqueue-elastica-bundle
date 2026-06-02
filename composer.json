@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "symfony/framework-bundle": "^6.0",
+        "symfony/framework-bundle": "^6.0|^7.0",
         "friendsofsymfony/elastica-bundle": "^7.0",
         "enqueue/enqueue-bundle": "^0.10"
     },
